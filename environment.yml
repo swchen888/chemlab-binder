@@ -1,4 +1,5 @@
 name: chemlab-binder
+
 channels:
 - conda-forge
 - defaults
