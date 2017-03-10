@@ -1,4 +1,4 @@
-name: chemlab-builder
+
 channels:
 - conda-forge
 - defaults
