@@ -1,4 +1,4 @@
-name: chemlab-binder
+name: chemlab-binder 
 name: chemlab-binder
 channels:
 - conda-forge
