@@ -1,4 +1,4 @@
-name: rootroot
+name: chemlab-builder
 channels: !!python/tuple
 - conda-forge
 - defaults
