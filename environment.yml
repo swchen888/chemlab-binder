@@ -1,8 +1,9 @@
-name: root
+name: chemlab
 channels: !!python/tuple
 - conda-forge
 - defaults
 dependencies:
+- python=3
 - bokeh=0.11.1=py35_0
 - chest=0.2.3=py35_0
 - cloudpickle=0.1.1=py35_0
